@@ -17,8 +17,8 @@ To use these APIs, follow the steps below:
     ```
 
 3. **Open Postman and start making requests.**
-   a. Create a new collection
-   b. Add a new request and that's where you will need to insert the URL link
+   - Create a new collection
+   - Add a new request and that's where you will need to insert the URL link
 
 ## API Endpoints
 
