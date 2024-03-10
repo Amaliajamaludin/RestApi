@@ -17,6 +17,8 @@ To use these APIs, follow the steps below:
     ```
 
 3. **Open Postman and start making requests.**
+   a. Create a new collection
+   b. Add a new request and that's where you will need to insert the URL link
 
 ## API Endpoints
 
@@ -43,4 +45,15 @@ To use these APIs, follow the steps below:
 ## Sample Requests
 
 - **Get All Tweets:**
+  ![image](https://github.com/Amaliajamaludin/RestApi/assets/84215227/8ff7647b-8da5-46f3-bf5b-42537b51c180)
+
+- **Get a list of all external links**
+  ![image](https://github.com/Amaliajamaludin/RestApi/assets/84215227/d861404b-c646-4c1c-9325-6a1266754af6)
+  
+- **Get the details**
+  ![image](https://github.com/Amaliajamaludin/RestApi/assets/84215227/b58ba9ad-9f8d-4ea2-b850-5a556d673fc0)
+
+- **Get detailed profile**
+  ![image](https://github.com/Amaliajamaludin/RestApi/assets/84215227/99e7cfb1-9ba3-498e-a368-1cd59a714c59)
+
   
